@@ -1,0 +1,10 @@
+^C:\USERS\SAMUE\ONEDRIVE\DOCUMENTS\GITHUB\UNSUFFERED - THE FALLEN\UNSUFFERED\BUILD\CMAKEFILES\D796132F60555D23DC6090C93B2A7562\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/samue/OneDrive/Documents/GitHub/Unsuffered - The Fallen/unsuffered" "-BC:/Users/samue/OneDrive/Documents/GitHub/Unsuffered - The Fallen/unsuffered/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/samue/OneDrive/Documents/GitHub/Unsuffered - The Fallen/unsuffered/build/UnsufferedTheFallen.slnx"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

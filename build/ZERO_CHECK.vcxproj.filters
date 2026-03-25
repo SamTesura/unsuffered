@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\samue\OneDrive\Documents\GitHub\Unsuffered - The Fallen\unsuffered\build\CMakeFiles\d796132f60555d23dc6090c93b2a7562\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{EB6A160C-7747-3D10-A365-4D489DA5699A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

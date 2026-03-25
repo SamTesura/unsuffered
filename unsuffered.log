@@ -1,0 +1,44 @@
+[INF] 05:41:15 === UNSUFFERED - THE FALLEN ===
+[INF] 05:41:15 Initializing engine...
+[INF] 05:41:16 Window created: 1920x1080
+[INF] 05:41:16 OpenGL version: 4.6.0 Core Profile Context 25.8.1.250617
+[INF] 05:41:16 AssetManager initialized with root: assets/
+[INF] 05:41:16 Initializing audio subsystem...
+[ERR] 05:41:16 Failed to create OpenAL context
+[WRN] 05:41:16 Audio failed - continuing without
+[INF] 05:41:16 Shader loaded: gbuffer
+[INF] 05:41:16 Shader loaded: cel
+[INF] 05:41:16 Shader loaded: outline
+[INF] 05:41:16 Shader loaded: corruption
+[INF] 05:41:16 Shader loaded: shadow
+[INF] 05:41:16 G-Buffer created (1920x1080)
+[INF] 05:41:16 Shadow map created (1024x1024)
+[INF] 05:41:16 ModelLoader initialized (Assimp: OBJ, glTF, FBX, +40 formats)
+[INF] 05:41:16 ModelLoader: loading 'assets/models/grak.glb' (format: .glb)
+[INF] 05:41:16 ModelLoader: GLB contains 2 embedded textures
+[INF] 05:41:16   Texture[0]: compressed, 1732309 bytes, format hint: 'png'
+[INF] 05:41:16   Texture[1]: compressed, 182125 bytes, format hint: 'png'
+[INF] 05:41:16   Material '' has texture path: '*0' (type 1)
+[INF] 05:41:16 ModelLoader: decoding embedded compressed texture (1732309 bytes, format hint: 'png')
+[INF] 05:41:17 ModelLoader: decoded embedded texture to 1024x1024 RGBA
+[INF] 05:41:17 ModelLoader: uploaded embedded texture to GPU (handle=7)
+[INF] 05:41:17   Loaded embedded texture '*0' (0x0)
+[INF] 05:41:17 ModelLoader: loaded 'grak' — 1 sub-meshes, AABB [-0.31,-0.50,-0.29] to [0.31,0.48,0.30], radius 0.65
+[INF] 05:41:17 Character model has texture — using embedded texture with warm tint fallback
+[INF] 05:41:17 Character model 'grak' loaded: 1 sub-meshes, height=0.98, ground_offset=0.50, auto_scale=1.00
+[INF] 05:41:17 Character model loaded from 'assets/models/grak.glb' — using loaded model
+[INF] 05:41:17 Grak character model initialized (procedural, 40+ parts)
+[INF] 05:41:17 Particle system initialized (1024 max)
+[INF] 05:41:17 Test scene created (with procedural Grak + particles)
+[INF] 05:41:17 Renderer initialized (1920x1080) — 5-pass pipeline + model loader
+[INF] 05:41:17 ModelLoader: 1 models cached, 1 textures, 131848 verts, 143785 tris
+[INF] 05:41:17 GameState initialized
+[WRN] 05:41:17 Audio asset not found in manifest: title_theme
+[INF] 05:41:17 Engine initialized successfully
+[INF] 05:41:17 Controls: WASD=move Grak, Right-click+Mouse=orbit camera, Q/E=zoom, C=corruption, ESC=quit
+[INF] 05:41:17 Collision system: 16 AABB colliders active
+[INF] 05:42:12 Shutting down engine...
+[INF] 05:42:12 Shutting down audio subsystem...
+[INF] 05:42:12 Audio subsystem shut down
+[INF] 05:42:12 ModelLoader shutdown — all models and textures released
+[INF] 05:42:13 Engine shut down cleanly

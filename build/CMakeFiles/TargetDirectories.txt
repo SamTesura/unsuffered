@@ -1,0 +1,3 @@
+C:/Users/samue/OneDrive/Documents/GitHub/Unsuffered - The Fallen/unsuffered/build/CMakeFiles/UnsufferedTheFallen.dir
+C:/Users/samue/OneDrive/Documents/GitHub/Unsuffered - The Fallen/unsuffered/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/samue/OneDrive/Documents/GitHub/Unsuffered - The Fallen/unsuffered/build/CMakeFiles/ZERO_CHECK.dir

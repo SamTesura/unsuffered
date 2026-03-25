@@ -1,0 +1,172 @@
+{
+  "_comment": "UNSUFFERED - THE FALLEN | Audio Asset Manifest",
+  "_version": "2.0",
+  "_note": "All paths are relative to assets/audio/. Place audio files in the corresponding directories.",
+
+  "music": {
+    "title_theme": {
+      "ambient": "music/title_ambient.ogg",
+      "main": "music/title_main.ogg"
+    },
+    "region_0": {
+      "ambient": "music/regions/mourne_ambient.ogg",
+      "exploration": "music/regions/mourne_explore.ogg",
+      "tension": "music/regions/mourne_tension.ogg",
+      "combat": "music/combat/mourne_battle.ogg"
+    },
+    "region_1": {
+      "ambient": "music/regions/pale_shepherd_ambient.ogg",
+      "exploration": "music/regions/pale_shepherd_explore.ogg",
+      "tension": "music/regions/pale_shepherd_tension.ogg",
+      "combat": "music/combat/pale_shepherd_battle.ogg"
+    },
+    "region_2": {
+      "ambient": "music/regions/dread_mother_ambient.ogg",
+      "exploration": "music/regions/dread_mother_explore.ogg",
+      "tension": "music/regions/dread_mother_tension.ogg",
+      "combat": "music/combat/dread_mother_battle.ogg"
+    },
+    "region_3": {
+      "ambient": "music/regions/iron_sermon_ambient.ogg",
+      "exploration": "music/regions/iron_sermon_explore.ogg",
+      "combat": "music/combat/iron_sermon_battle.ogg"
+    },
+    "region_4": {
+      "ambient": "music/regions/giltskin_ambient.ogg",
+      "exploration": "music/regions/giltskin_explore.ogg",
+      "combat": "music/combat/giltskin_battle.ogg"
+    },
+    "region_5": {
+      "ambient": "music/regions/severing_ambient.ogg",
+      "exploration": "music/regions/severing_explore.ogg",
+      "combat": "music/combat/severing_battle.ogg"
+    },
+    "region_6": {
+      "ambient": "music/regions/bloom_rot_ambient.ogg",
+      "exploration": "music/regions/bloom_rot_explore.ogg",
+      "combat": "music/combat/bloom_rot_battle.ogg"
+    },
+    "region_7": {
+      "ambient": "music/regions/ashen_tyrant_ambient.ogg",
+      "exploration": "music/regions/ashen_tyrant_explore.ogg",
+      "combat": "music/combat/ashen_tyrant_battle.ogg"
+    },
+    "region_8": {
+      "ambient": "music/regions/still_water_ambient.ogg",
+      "exploration": "music/regions/still_water_explore.ogg",
+      "combat": "music/combat/still_water_battle.ogg"
+    },
+    "region_9": {
+      "ambient": "music/regions/whisper_throne_ambient.ogg",
+      "exploration": "music/regions/whisper_throne_explore.ogg",
+      "combat": "music/combat/whisper_throne_battle.ogg"
+    },
+    "region_10": {
+      "ambient": "music/regions/void_singer_ambient.ogg",
+      "exploration": "music/regions/void_singer_explore.ogg",
+      "combat": "music/combat/void_singer_battle.ogg"
+    },
+    "region_11": {
+      "ambient": "music/regions/chain_father_ambient.ogg",
+      "exploration": "music/regions/chain_father_explore.ogg",
+      "combat": "music/combat/chain_father_battle.ogg"
+    },
+    "region_12": {
+      "ambient": "music/regions/dream_eater_ambient.ogg",
+      "exploration": "music/regions/dream_eater_explore.ogg",
+      "combat": "music/combat/dream_eater_battle.ogg"
+    },
+    "region_13": {
+      "ambient": "music/regions/the_unnamed_ambient.ogg",
+      "exploration": "music/regions/the_unnamed_explore.ogg",
+      "combat": "music/combat/the_unnamed_battle.ogg"
+    }
+  },
+
+  "endings": {
+    "ending_last_man": "music/endings/last_man.ogg",
+    "ending_higher_man": "music/endings/higher_man.ogg",
+    "ending_ubermensch": "music/endings/ubermensch.ogg",
+    "ending_eternal_recurrence": "music/endings/eternal_recurrence.ogg"
+  },
+
+  "sfx": {
+    "covenant_affirm_will": "sfx/covenant/affirm_will.wav",
+    "covenant_shared_suffering": "sfx/covenant/shared_suffering.wav",
+    "covenant_surge": "sfx/covenant/surge.wav",
+    "covenant_overcome": "sfx/covenant/overcome.wav",
+    "covenant_resonance": "sfx/covenant/resonance.wav",
+    "covenant_eternal_return": "sfx/covenant/eternal_return.wav",
+    "covenant_formed": "sfx/covenant/formed.wav",
+
+    "clash_attacker_wins": "sfx/combat/clash_attacker.wav",
+    "clash_defender_wins": "sfx/combat/clash_defender.wav",
+    "clash_draw": "sfx/combat/clash_draw.wav",
+    "critical_hit": "sfx/combat/critical_hit.wav",
+    "creature_faint": "sfx/combat/faint.wav",
+    "battle_victory": "sfx/combat/victory.wav",
+    "battle_defeat": "sfx/combat/defeat.wav",
+
+    "bond_level_1_bell": "sfx/bond/level_1_bell.wav",
+    "bond_level_2_chime": "sfx/bond/level_2_chime.wav",
+    "bond_level_3_chord": "sfx/bond/level_3_chord.wav",
+    "bond_level_4_harmony": "sfx/bond/level_4_harmony.wav",
+    "bond_level_5_resolution": "sfx/bond/level_5_resolution.wav",
+    "bond_level_6_transcendence": "sfx/bond/level_6_transcendence.wav",
+    "bond_decrease_warning": "sfx/bond/decrease_warning.wav",
+
+    "ui_menu_open": "sfx/ui/menu_open.wav",
+    "ui_menu_close": "sfx/ui/menu_close.wav",
+    "ui_save_confirm": "sfx/ui/save_confirm.wav",
+    "ui_load": "sfx/ui/load.wav",
+    "ui_navigate": "sfx/ui/navigate.wav",
+    "ui_select": "sfx/ui/select.wav",
+    "ui_cancel": "sfx/ui/cancel.wav",
+
+    "footstep_ash": "sfx/environment/footstep_ash.wav",
+    "footstep_stone": "sfx/environment/footstep_stone.wav",
+    "footstep_metal": "sfx/environment/footstep_metal.wav",
+    "footstep_organic": "sfx/environment/footstep_organic.wav",
+    "footstep_water": "sfx/environment/footstep_water.wav"
+  },
+
+  "voice": {
+    "grak_rise": "sfx/covenant/grak_rise.wav",
+    "grak_pain": "sfx/covenant/grak_pain.wav",
+    "grak_surge": "sfx/covenant/grak_surge.wav",
+    "grak_overcome": "sfx/covenant/grak_overcome.wav",
+    "grak_resonate": "sfx/covenant/grak_resonate.wav",
+    "grak_return": "sfx/covenant/grak_return.wav",
+    "grak_covenant": "sfx/covenant/grak_covenant.wav"
+  },
+
+  "creatures": {
+    "creature_1": {
+      "idle": ["creatures/001_ashcrawler_idle_01.wav", "creatures/001_ashcrawler_idle_02.wav"],
+      "combat": ["creatures/001_ashcrawler_combat_01.wav"],
+      "bond": {
+        "1": "creatures/001_ashcrawler_bond_1.wav",
+        "3": "creatures/001_ashcrawler_bond_3.wav",
+        "5": "creatures/001_ashcrawler_bond_5.wav",
+        "6": "creatures/001_ashcrawler_bond_transcend.wav"
+      }
+    },
+    "creature_2": {
+      "idle": ["creatures/002_emberveil_idle_01.wav"],
+      "combat": ["creatures/002_emberveil_combat_01.wav"],
+      "bond": {
+        "1": "creatures/002_emberveil_bond_1.wav",
+        "5": "creatures/002_emberveil_bond_5.wav",
+        "6": "creatures/002_emberveil_bond_transcend.wav"
+      }
+    },
+    "creature_3": {
+      "idle": ["creatures/003_memorywisp_idle_01.wav"],
+      "combat": ["creatures/003_memorywisp_combat_01.wav"],
+      "bond": {
+        "1": "creatures/003_memorywisp_bond_1.wav",
+        "6": "creatures/003_memorywisp_bond_transcend.wav"
+      }
+    }
+  }
+}

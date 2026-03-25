@@ -1,0 +1,154 @@
+{
+  "regions": [
+    {
+      "id": 0, "name": "Ashwalker Warrens", "fallen": -1, "element": 0,
+      "corruption_effect": "None (safe zone)",
+      "dominant_hue": [0.4, 0.35, 0.3], "cel_steps": 4, "outline_color": [0.2, 0.2, 0.2],
+      "distortion_shader": "none", "particle_density": 0.5,
+      "corruption_rate": 0.0,
+      "bounds_min": [-50, -50], "bounds_max": [50, 50],
+      "native_creatures": [1, 2, 8],
+      "audio_profile": { "ambient": "regions/warrens_ambient", "exploration": "regions/warrens_explore", "combat": "combat/warrens_battle" }
+    },
+    {
+      "id": 1, "name": "The Forgetting Fields", "fallen": 0, "element": 1,
+      "corruption_effect": "Erases creature bond memories—bond depth decays faster",
+      "dominant_hue": [0.6, 0.55, 0.7], "cel_steps": 3, "outline_color": [0.5, 0.4, 0.6],
+      "distortion_shader": "corruption", "particle_density": 1.2,
+      "corruption_rate": 1.5,
+      "bounds_min": [50, -100], "bounds_max": [200, 50],
+      "native_creatures": [3, 18],
+      "audio_profile": { "ambient": "regions/mourne_ambient", "exploration": "regions/mourne_explore", "tension": "regions/mourne_tension", "combat": "combat/mourne_battle" }
+    },
+    {
+      "id": 2, "name": "The Ossuary Sprawl", "fallen": 1, "element": 2,
+      "corruption_effect": "Hoards souls—fainted creatures take longer to revive",
+      "dominant_hue": [0.9, 0.85, 0.8], "cel_steps": 5, "outline_color": [0.8, 0.75, 0.7],
+      "distortion_shader": "corruption", "particle_density": 0.8,
+      "corruption_rate": 1.2,
+      "bounds_min": [200, -100], "bounds_max": [400, 100],
+      "native_creatures": [4],
+      "audio_profile": { "ambient": "regions/shepherd_ambient", "exploration": "regions/shepherd_explore", "tension": "regions/shepherd_tension", "combat": "combat/shepherd_battle" }
+    },
+    {
+      "id": 3, "name": "The Clutching Gardens", "fallen": 2, "element": 3,
+      "corruption_effect": "Turns affection into possession—bonded creatures become jealous of each other",
+      "dominant_hue": [0.8, 0.3, 0.4], "cel_steps": 4, "outline_color": [0.6, 0.1, 0.2],
+      "distortion_shader": "corruption", "particle_density": 2.0,
+      "corruption_rate": 1.8,
+      "bounds_min": [-200, 50], "bounds_max": [-50, 200],
+      "native_creatures": [5],
+      "audio_profile": { "ambient": "regions/dreadmother_ambient", "exploration": "regions/dreadmother_explore", "combat": "combat/dreadmother_battle" }
+    },
+    {
+      "id": 4, "name": "The Cathedral Wastes", "fallen": 3, "element": 4,
+      "corruption_effect": "Forces obedience—creatures may ignore player commands and follow AI patterns",
+      "dominant_hue": [0.9, 0.8, 0.5], "cel_steps": 5, "outline_color": [0.7, 0.6, 0.3],
+      "distortion_shader": "corruption", "particle_density": 0.6,
+      "corruption_rate": 2.0,
+      "bounds_min": [50, 100], "bounds_max": [250, 300],
+      "native_creatures": [],
+      "audio_profile": { "ambient": "regions/ironsermon_ambient", "exploration": "regions/ironsermon_explore", "combat": "combat/ironsermon_battle" }
+    },
+    {
+      "id": 5, "name": "The Coin Flats", "fallen": 4, "element": 5,
+      "corruption_effect": "Commodifies—taming costs items; creatures evaluate Grak by his possessions",
+      "dominant_hue": [0.85, 0.75, 0.3], "cel_steps": 4, "outline_color": [0.6, 0.5, 0.1],
+      "distortion_shader": "corruption", "particle_density": 1.0,
+      "corruption_rate": 1.0,
+      "bounds_min": [-100, -250], "bounds_max": [50, -100],
+      "native_creatures": [],
+      "audio_profile": { "ambient": "regions/giltskin_ambient", "combat": "combat/giltskin_battle" }
+    },
+    {
+      "id": 6, "name": "The Isolate Reaches", "fallen": 5, "element": 6,
+      "corruption_effect": "Prevents bonds—Covenant Taming rate halved, creatures cannot be swapped in battle",
+      "dominant_hue": [0.3, 0.3, 0.35], "cel_steps": 3, "outline_color": [0.15, 0.15, 0.2],
+      "distortion_shader": "corruption", "particle_density": 0.2,
+      "corruption_rate": 2.5,
+      "bounds_min": [300, -200], "bounds_max": [500, 0],
+      "native_creatures": [],
+      "audio_profile": { "ambient": "regions/severing_ambient", "combat": "combat/severing_battle" }
+    },
+    {
+      "id": 7, "name": "The Overgrown Depths", "fallen": 6, "element": 7,
+      "corruption_effect": "Unchecked growth—creature abilities gain power but stamina costs double",
+      "dominant_hue": [0.2, 0.6, 0.15], "cel_steps": 3, "outline_color": [0.1, 0.4, 0.05],
+      "distortion_shader": "corruption", "particle_density": 3.0,
+      "corruption_rate": 1.5,
+      "bounds_min": [-300, -100], "bounds_max": [-150, 100],
+      "native_creatures": [5],
+      "audio_profile": { "ambient": "regions/bloomrot_ambient", "combat": "combat/bloomrot_battle" }
+    },
+    {
+      "id": 8, "name": "The Scorch Marches", "fallen": 7, "element": 8,
+      "corruption_effect": "Endless conflict—random wild encounters doubled, cannot rest",
+      "dominant_hue": [0.9, 0.3, 0.1], "cel_steps": 4, "outline_color": [0.7, 0.2, 0.0],
+      "distortion_shader": "corruption", "particle_density": 1.8,
+      "corruption_rate": 1.8,
+      "bounds_min": [100, -300], "bounds_max": [350, -150],
+      "native_creatures": [1, 2],
+      "audio_profile": { "ambient": "regions/ashentyrant_ambient", "combat": "combat/ashentyrant_battle" }
+    },
+    {
+      "id": 9, "name": "The Stagnant Pools", "fallen": 8, "element": 9,
+      "corruption_effect": "Time loops—battle turns may repeat, quest progress can reverse",
+      "dominant_hue": [0.4, 0.5, 0.5], "cel_steps": 3, "outline_color": [0.3, 0.4, 0.4],
+      "distortion_shader": "corruption", "particle_density": 0.3,
+      "corruption_rate": 2.0,
+      "bounds_min": [-150, 200], "bounds_max": [50, 400],
+      "native_creatures": [],
+      "audio_profile": { "ambient": "regions/stillwater_ambient", "combat": "combat/stillwater_battle" }
+    },
+    {
+      "id": 10, "name": "The Library Labyrinth", "fallen": 9, "element": 10,
+      "corruption_effect": "Information hoarding—creature stats are hidden until Bond 3",
+      "dominant_hue": [0.3, 0.25, 0.4], "cel_steps": 5, "outline_color": [0.2, 0.15, 0.3],
+      "distortion_shader": "corruption", "particle_density": 0.7,
+      "corruption_rate": 1.0,
+      "bounds_min": [250, 100], "bounds_max": [450, 300],
+      "native_creatures": [],
+      "audio_profile": { "ambient": "regions/whisperthrone_ambient", "combat": "combat/whisperthrone_battle" }
+    },
+    {
+      "id": 11, "name": "The Silent Galleries", "fallen": 10, "element": 11,
+      "corruption_effect": "All creative expression forbidden—creature voice calls suppressed, bond interactions muted",
+      "dominant_hue": [0.15, 0.15, 0.15], "cel_steps": 3, "outline_color": [0.05, 0.05, 0.05],
+      "distortion_shader": "corruption", "particle_density": 0.1,
+      "corruption_rate": 2.2,
+      "bounds_min": [-400, -250], "bounds_max": [-200, -50],
+      "native_creatures": [],
+      "audio_profile": { "ambient": "regions/voidsinger_ambient", "combat": "combat/voidsinger_battle" }
+    },
+    {
+      "id": 12, "name": "The Verdict Plains", "fallen": 11, "element": 12,
+      "corruption_effect": "Punishment without context—random debuffs applied each turn in battle",
+      "dominant_hue": [0.5, 0.5, 0.55], "cel_steps": 4, "outline_color": [0.3, 0.3, 0.35],
+      "distortion_shader": "corruption", "particle_density": 0.9,
+      "corruption_rate": 1.5,
+      "bounds_min": [50, 300], "bounds_max": [300, 500],
+      "native_creatures": [],
+      "audio_profile": { "ambient": "regions/chainfather_ambient", "combat": "combat/chainfather_battle" }
+    },
+    {
+      "id": 13, "name": "The Hollow Dunes", "fallen": 12, "element": 13,
+      "corruption_effect": "Consumes aspirations—Bond depth gains halved, Covenant Taming inspirational bonus removed",
+      "dominant_hue": [0.7, 0.65, 0.5], "cel_steps": 3, "outline_color": [0.5, 0.45, 0.3],
+      "distortion_shader": "corruption", "particle_density": 1.5,
+      "corruption_rate": 1.8,
+      "bounds_min": [-250, 200], "bounds_max": [-50, 450],
+      "native_creatures": [],
+      "audio_profile": { "ambient": "regions/dreameater_ambient", "combat": "combat/dreameater_battle" }
+    },
+    {
+      "id": 14, "name": "The Mirror Wastes", "fallen": 13, "element": 14,
+      "corruption_effect": "Dissolves identity—Grak's Covenant Boosts may target wrong ally, creature calls become distorted",
+      "dominant_hue": [0.8, 0.8, 0.85], "cel_steps": 5, "outline_color": [0.9, 0.9, 0.95],
+      "distortion_shader": "corruption", "particle_density": 1.0,
+      "corruption_rate": 3.0,
+      "bounds_min": [400, -100], "bounds_max": [600, 200],
+      "native_creatures": [6, 7, 8],
+      "audio_profile": { "ambient": "regions/unnamed_ambient", "combat": "combat/unnamed_battle" }
+    }
+  ]
+}

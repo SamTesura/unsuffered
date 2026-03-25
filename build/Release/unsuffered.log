@@ -1,0 +1,57 @@
+[INF] 17:15:16 === UNSUFFERED - THE FALLEN ===
+[INF] 17:15:16 Initializing engine...
+[INF] 17:15:18 Window created: 1920x1080
+[INF] 17:15:18 OpenGL version: 4.6.0 Core Profile Context 25.8.1.250617
+[INF] 17:15:18 AssetManager initialized with root: assets/
+[INF] 17:15:18 Initializing audio subsystem...
+[INF] 17:15:19 Corruption audio filter initialized
+[INF] 17:15:19 Audio event handlers registered
+[INF] 17:15:19 Audio subsystem initialized (pool: 32 sources)
+[INF] 17:15:19 Audio manifest loaded: 95 entries
+[INF] 17:15:19 Audio manifest loaded
+[INF] 17:15:19 Shader loaded: gbuffer
+[INF] 17:15:19 Shader loaded: cel
+[INF] 17:15:19 Shader loaded: outline
+[INF] 17:15:19 Shader loaded: corruption
+[INF] 17:15:19 Shader loaded: shadow
+[INF] 17:15:19 G-Buffer created (1920x1080)
+[INF] 17:15:19 Shadow map created (1024x1024)
+[INF] 17:15:19 ModelLoader initialized (Assimp: OBJ, glTF, FBX, +40 formats)
+[INF] 17:15:19 ModelLoader: loading 'assets/models/grak.glb' (format: .glb)
+[INF] 17:15:19 ModelLoader: GLB contains 2 embedded textures
+[INF] 17:15:19   Texture[0]: compressed, 1732309 bytes, format hint: 'png'
+[INF] 17:15:19   Texture[1]: compressed, 182125 bytes, format hint: 'png'
+[INF] 17:15:19   Material '' has texture path: '*0' (type 1)
+[INF] 17:15:19 ModelLoader: decoding embedded compressed texture (1732309 bytes, format hint: 'png')
+[INF] 17:15:19 ModelLoader: decoded embedded texture to 1024x1024 RGBA
+[INF] 17:15:19 ModelLoader: uploaded embedded texture to GPU (handle=7)
+[INF] 17:15:19   Loaded embedded texture '*0' (0x0)
+[INF] 17:15:19 ModelLoader: loaded 'grak' — 1 sub-meshes, AABB [-0.31,-0.50,-0.29] to [0.31,0.48,0.30], radius 0.65
+[INF] 17:15:19 Character model has texture — using embedded texture with warm tint fallback
+[INF] 17:15:19 Character model 'grak' loaded: 1 sub-meshes, height=0.98, ground_offset=0.50, auto_scale=1.00
+[INF] 17:15:19 Character model loaded from 'assets/models/grak.glb' — using loaded model
+[INF] 17:15:19 Grak character model initialized (procedural, 40+ parts)
+[INF] 17:15:19 Particle system initialized (1024 max)
+[INF] 17:15:19 Test scene created (with procedural Grak + particles)
+[INF] 17:15:19 Renderer initialized (1920x1080) — 5-pass pipeline + model loader
+[INF] 17:15:19 ModelLoader: 1 models cached, 1 textures, 131848 verts, 143785 tris
+[INF] 17:15:19 GameState initialized
+[WRN] 17:15:19 Audio asset not found in manifest: title_theme
+[INF] 17:15:19 Engine initialized successfully
+[INF] 17:15:19 Controls: WASD=move Grak, Right-click+Mouse=orbit camera, Q/E=zoom, C=corruption, ESC=quit
+[INF] 17:15:19 Collision system: 16 AABB colliders active
+[INF] 17:15:35 Corruption: 25%
+[INF] 17:15:36 Corruption: 50%
+[INF] 17:15:36 Corruption: 75%
+[INF] 17:15:36 Corruption: 100%
+[INF] 17:15:40 Corruption: 0%
+[INF] 17:15:40 Corruption: 25%
+[INF] 17:15:40 Corruption: 50%
+[INF] 17:15:40 Corruption: 75%
+[INF] 17:15:40 Corruption: 100%
+[INF] 17:15:53 Corruption: 0%
+[INF] 17:17:16 Shutting down engine...
+[INF] 17:17:16 Shutting down audio subsystem...
+[INF] 17:17:16 Audio subsystem shut down
+[INF] 17:17:16 ModelLoader shutdown — all models and textures released
+[INF] 17:17:16 Engine shut down cleanly

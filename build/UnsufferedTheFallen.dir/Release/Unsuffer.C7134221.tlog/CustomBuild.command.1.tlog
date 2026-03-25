@@ -1,0 +1,10 @@
+^C:\USERS\SAMUE\ONEDRIVE\DOCUMENTS\GITHUB\UNSUFFERED - THE FALLEN\UNSUFFERED\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/samue/OneDrive/Documents/GitHub/Unsuffered - The Fallen/unsuffered" "-BC:/Users/samue/OneDrive/Documents/GitHub/Unsuffered - The Fallen/unsuffered/build" --check-stamp-file "C:/Users/samue/OneDrive/Documents/GitHub/Unsuffered - The Fallen/unsuffered/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

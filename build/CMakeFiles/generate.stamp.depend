@@ -1,0 +1,82 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-4.3/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/CMakeDependentOption.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/CMakeFindDependencyMacro.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/FeatureSummary.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/FindOpenGL.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/FindZLIB.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/Internal/CMakeCXXLinkerInformation.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/Internal/CMakeCommonLinkerInformation.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/Linker/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/Linker/MSVC.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/Platform/Linker/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/Platform/Linker/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/Platform/Windows-Initialize.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-4.3/Modules/SelectLibraryConfigurations.cmake
+C:/Users/samue/OneDrive/Documents/GitHub/Unsuffered - The Fallen/unsuffered/CMakeLists.txt
+C:/Users/samue/OneDrive/Documents/GitHub/Unsuffered - The Fallen/unsuffered/build/CMakeFiles/4.3.0-rc2/CMakeCXXCompiler.cmake
+C:/Users/samue/OneDrive/Documents/GitHub/Unsuffered - The Fallen/unsuffered/build/CMakeFiles/4.3.0-rc2/CMakeRCCompiler.cmake
+C:/Users/samue/OneDrive/Documents/GitHub/Unsuffered - The Fallen/unsuffered/build/CMakeFiles/4.3.0-rc2/CMakeSystem.cmake
+C:/vcpkg/installed/x64-windows/share/assimp/assimpConfig.cmake
+C:/vcpkg/installed/x64-windows/share/assimp/assimpConfigVersion.cmake
+C:/vcpkg/installed/x64-windows/share/assimp/assimpTargets-debug.cmake
+C:/vcpkg/installed/x64-windows/share/assimp/assimpTargets-release.cmake
+C:/vcpkg/installed/x64-windows/share/assimp/assimpTargets.cmake
+C:/vcpkg/installed/x64-windows/share/entt/EnTTConfig.cmake
+C:/vcpkg/installed/x64-windows/share/entt/EnTTConfigVersion.cmake
+C:/vcpkg/installed/x64-windows/share/entt/EnTTTargets.cmake
+C:/vcpkg/installed/x64-windows/share/fmt/fmt-config-version.cmake
+C:/vcpkg/installed/x64-windows/share/fmt/fmt-config.cmake
+C:/vcpkg/installed/x64-windows/share/fmt/fmt-targets-debug.cmake
+C:/vcpkg/installed/x64-windows/share/fmt/fmt-targets-release.cmake
+C:/vcpkg/installed/x64-windows/share/fmt/fmt-targets.cmake
+C:/vcpkg/installed/x64-windows/share/freetype/freetype-config-version.cmake
+C:/vcpkg/installed/x64-windows/share/freetype/freetype-config.cmake
+C:/vcpkg/installed/x64-windows/share/freetype/freetype-targets-debug.cmake
+C:/vcpkg/installed/x64-windows/share/freetype/freetype-targets-release.cmake
+C:/vcpkg/installed/x64-windows/share/freetype/freetype-targets.cmake
+C:/vcpkg/installed/x64-windows/share/freetype/vcpkg-cmake-wrapper.cmake
+C:/vcpkg/installed/x64-windows/share/glew/CopyImportedTargetProperties.cmake
+C:/vcpkg/installed/x64-windows/share/glew/glew-config.cmake
+C:/vcpkg/installed/x64-windows/share/glew/glew-targets-debug.cmake
+C:/vcpkg/installed/x64-windows/share/glew/glew-targets-release.cmake
+C:/vcpkg/installed/x64-windows/share/glew/glew-targets.cmake
+C:/vcpkg/installed/x64-windows/share/glew/vcpkg-cmake-wrapper.cmake
+C:/vcpkg/installed/x64-windows/share/glm/glmConfig-debug.cmake
+C:/vcpkg/installed/x64-windows/share/glm/glmConfig-release.cmake
+C:/vcpkg/installed/x64-windows/share/glm/glmConfig.cmake
+C:/vcpkg/installed/x64-windows/share/glm/glmConfigVersion.cmake
+C:/vcpkg/installed/x64-windows/share/nlohmann_json/nlohmann_jsonConfig.cmake
+C:/vcpkg/installed/x64-windows/share/nlohmann_json/nlohmann_jsonConfigVersion.cmake
+C:/vcpkg/installed/x64-windows/share/nlohmann_json/nlohmann_jsonTargets.cmake
+C:/vcpkg/installed/x64-windows/share/openal-soft/OpenALConfig.cmake
+C:/vcpkg/installed/x64-windows/share/openal-soft/OpenALTargets-debug.cmake
+C:/vcpkg/installed/x64-windows/share/openal-soft/OpenALTargets-release.cmake
+C:/vcpkg/installed/x64-windows/share/openal-soft/OpenALTargets.cmake
+C:/vcpkg/installed/x64-windows/share/sdl2/SDL2Config.cmake
+C:/vcpkg/installed/x64-windows/share/sdl2/SDL2ConfigVersion.cmake
+C:/vcpkg/installed/x64-windows/share/sdl2/SDL2Targets-debug.cmake
+C:/vcpkg/installed/x64-windows/share/sdl2/SDL2Targets-release.cmake
+C:/vcpkg/installed/x64-windows/share/sdl2/SDL2Targets.cmake
+C:/vcpkg/installed/x64-windows/share/sdl2/SDL2mainTargets-debug.cmake
+C:/vcpkg/installed/x64-windows/share/sdl2/SDL2mainTargets-release.cmake
+C:/vcpkg/installed/x64-windows/share/sdl2/SDL2mainTargets.cmake
+C:/vcpkg/installed/x64-windows/share/sdl2/sdlfind.cmake
+C:/vcpkg/installed/x64-windows/share/zlib/vcpkg-cmake-wrapper.cmake
+C:/vcpkg/scripts/buildsystems/vcpkg.cmake

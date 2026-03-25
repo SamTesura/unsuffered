@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\samue\OneDrive\Documents\GitHub\Unsuffered - The Fallen\unsuffered\src\Engine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\samue\OneDrive\Documents\GitHub\Unsuffered - The Fallen\unsuffered\src\audio\AudioManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\samue\OneDrive\Documents\GitHub\Unsuffered - The Fallen\unsuffered\src\game\ai\AI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\samue\OneDrive\Documents\GitHub\Unsuffered - The Fallen\unsuffered\src\game\battle\BattleSystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\samue\OneDrive\Documents\GitHub\Unsuffered - The Fallen\unsuffered\src\game\creature\Creature.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\samue\OneDrive\Documents\GitHub\Unsuffered - The Fallen\unsuffered\src\game\narrative\Narrative.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\samue\OneDrive\Documents\GitHub\Unsuffered - The Fallen\unsuffered\src\game\world\World.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\samue\OneDrive\Documents\GitHub\Unsuffered - The Fallen\unsuffered\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\samue\OneDrive\Documents\GitHub\Unsuffered - The Fallen\unsuffered\src\rendering\ModelLoader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\samue\OneDrive\Documents\GitHub\Unsuffered - The Fallen\unsuffered\src\rendering\Renderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\samue\OneDrive\Documents\GitHub\Unsuffered - The Fallen\unsuffered\src\rendering\stb_image_impl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\samue\OneDrive\Documents\GitHub\Unsuffered - The Fallen\unsuffered\src\resource\AssetManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\samue\OneDrive\Documents\GitHub\Unsuffered - The Fallen\unsuffered\src\save\SaveManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\samue\OneDrive\Documents\GitHub\Unsuffered - The Fallen\unsuffered\src\Engine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\samue\OneDrive\Documents\GitHub\Unsuffered - The Fallen\unsuffered\src\audio\AudioManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\samue\OneDrive\Documents\GitHub\Unsuffered - The Fallen\unsuffered\src\core\EventBus.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\samue\OneDrive\Documents\GitHub\Unsuffered - The Fallen\unsuffered\src\core\Logger.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\samue\OneDrive\Documents\GitHub\Unsuffered - The Fallen\unsuffered\src\core\Types.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\samue\OneDrive\Documents\GitHub\Unsuffered - The Fallen\unsuffered\src\game\ai\AI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\samue\OneDrive\Documents\GitHub\Unsuffered - The Fallen\unsuffered\src\game\battle\BattleSystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\samue\OneDrive\Documents\GitHub\Unsuffered - The Fallen\unsuffered\src\game\creature\Creature.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\samue\OneDrive\Documents\GitHub\Unsuffered - The Fallen\unsuffered\src\game\narrative\Narrative.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\samue\OneDrive\Documents\GitHub\Unsuffered - The Fallen\unsuffered\src\game\world\World.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\samue\OneDrive\Documents\GitHub\Unsuffered - The Fallen\unsuffered\src\platform\Platform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\samue\OneDrive\Documents\GitHub\Unsuffered - The Fallen\unsuffered\src\rendering\ModelLoader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\samue\OneDrive\Documents\GitHub\Unsuffered - The Fallen\unsuffered\src\rendering\Renderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\samue\OneDrive\Documents\GitHub\Unsuffered - The Fallen\unsuffered\src\rendering\stb_image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\samue\OneDrive\Documents\GitHub\Unsuffered - The Fallen\unsuffered\src\resource\AssetManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\samue\OneDrive\Documents\GitHub\Unsuffered - The Fallen\unsuffered\src\save\SaveManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\samue\OneDrive\Documents\GitHub\Unsuffered - The Fallen\unsuffered\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Natvis Include="C:\vcpkg\installed\x64-windows\share\nlohmann_json\nlohmann_json.natvis" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{BFC48ACF-F0B7-3666-AA3E-E4B4455D849B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C6245ECD-C4D1-3384-BCF2-000D915F8E79}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
